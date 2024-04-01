@@ -34,3 +34,10 @@ Detailed Task: https://nymblelabs.notion.site/Software-Design-Task-JAVA-f8b00594
 - Adding concepts like data caching, pagination, and Fault Tolerance for higher scale as number of users growing.
 
 
+## Hign Level Design:
+![High Level Design](https://github.com/Muskan-Git-Code/Travellers/assets/64833214/900820fc-fce8-4ed6-8bd7-8c589c24389e)
+
+
+## UML Diagram 
+![UML Diagram](https://github.com/Muskan-Git-Code/Travellers/assets/64833214/1ac85b91-6ff8-4605-b972-fd77789c4720)
+
